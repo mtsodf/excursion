@@ -10,6 +10,11 @@ h1{
     font-weight: Normal;
 }
 
+p{
+    font-size:21px;
+    color: Gray;
+}
+
 .main-title{
     text-align: center;
     color: white;
@@ -20,4 +25,15 @@ h1{
     color: Aquamarine;
     text-decoration: underline;
     font-size: 16px;
+}
+
+.personal{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.copyright{
+    text-align: right;
+    color: Gray;
 }
